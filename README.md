@@ -12,20 +12,21 @@ Fuente: Sales Orders Dataset
 Descripción: El dataset incluye un conjunto de órdenes de ventas, proporcionando información detallada sobre las ventas realizadas durante un periodo específico.
 
 ### Proyectos Incluidos
-1.Procesamiento de Datos en Excel:
+1.Procesamiento de Datos en Excel:  
   Análisis exhaustivo de las ventas utilizando herramientas avanzadas de Excel, como tablas dinámicas y gráficos.
 
 
-2.Análisis del Dataset en Tableau:
+2.Análisis del Dataset en Tableau:  
   Visualizaciones y análisis interactivo de las ventas utilizando Tableau.
 
 
-3.Proyecto SQL:
+3.Proyecto SQL:  
   Gestión y análisis de la base de datos de ventas utilizando SQL.
 
 
-4.Análisis de Ventas con Power BI:
+4.Análisis de Ventas con Power BI:  
   Reportes y análisis avanzados de las ventas utilizando Power BI.
+
 
 ## Enlaces
 https://www.kaggle.com/datasets/vincentcornlius/sales-orders
