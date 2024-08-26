@@ -1,5 +1,5 @@
 # Coderhouse_Proyectos
-Proyectos realizados durante los cursos de Coderhouse
+Proyectos realizados en la plataforma de aprendizaje Coderhouse
 
 ### Descripción General
 
