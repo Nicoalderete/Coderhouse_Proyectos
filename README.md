@@ -8,6 +8,7 @@ El objetivo de estos proyectos es demostrar diferentes tipos de análisis y enfo
 
 ## Dataset Utilizado
 Fuente: Sales Orders Dataset
+
 Descripción: El dataset incluye un conjunto de órdenes de ventas, proporcionando información detallada sobre las ventas realizadas durante un periodo específico.
 
 ## Proyectos Incluidos
