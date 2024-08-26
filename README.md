@@ -2,12 +2,12 @@
 Proyectos realizados durante los cursos de Coderhouse
 
 ### Descripción General
-Este repositorio contiene una colección de proyectos desarrollados como parte de los cursos de Coderhouse. Todos los proyectos están basados en el mismo conjunto de datos de ventas extraído de Kaggle, que puedes encontrar aquí.
 
-El objetivo de estos proyectos es demostrar diferentes tipos de análisis y enfoques utilizando diversas plataformas y herramientas de análisis de datos, como Excel, Tableau, SQL y Power BI.
+En este repositorio se encuentran los proyectos desarrollados durante los cursos de Coderhouse enfocados en Data Analytics. Todos los proyectos comparten un conjunto de datos de ventas obtenido de Kaggle que puedes encontrar [aquí](https://www.kaggle.com/datasets/vincentcornlius/sales-orders), y muestran diversos enfoques analíticos aplicados en distintos contextos. Cada proyecto fue elaborado durante semanas o meses y constituye la entrega final necesaria para aprobar los cursos y obtener las certificaciones correspondientes.
+
 
 ### Dataset Utilizado
-Fuente: Sales Orders Dataset
+Fuente: [Sales Orders Dataset](https://www.kaggle.com/datasets/vincentcornlius/sales-orders)
 
 Descripción: El dataset incluye un conjunto de órdenes de ventas, proporcionando información detallada sobre las ventas realizadas durante un periodo específico.
 
