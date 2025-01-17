@@ -1,0 +1,47 @@
+Instrucciones de Instalación para la Base de Datos "Finanzas Personales y Presupuesto"
+Para instalar y configurar correctamente la base de datos "Finanzas Personales y Presupuesto", sigue los pasos detallados a continuación. Asegúrate de ejecutar los archivos en el orden indicado para una correcta configuración y funcionamiento del sistema.
+
+
+1.Abrir Esquema
+
+Ejecuta el archivo 'CreateSchema.sql' para crear el esquema de la base de datos, estableciendo la estructura necesaria para el almacenamiento de datos.
+
+
+2.Abrir Tablas
+
+Ejecuta el archivo 'CreateTables.sql' para iniciar la creación de las tablas necesarias para la base de datos.
+
+
+3.Abrir Registros
+
+Ejecuta el archivo 'InsertData.sql' para poblar las tablas con datos iniciales necesarios para el funcionamiento del sistema.
+
+
+4.Abrir Vistas
+
+Ejecuta el archivo 'CreateViews.sql' para definir las vistas que simplificarán las consultas y mejorarán el rendimiento de las consultas comunes.
+
+
+5.Abrir Funciones
+
+Ejecuta el archivo 'CreateFunctions.sql' para establecer las funciones que permitirán cálculos y operaciones complejas a ser reutilizadas en varias partes del sistema.
+
+
+6.Abrir Procedimientos
+
+Ejecuta el archivo 'CreateProcedures.sql' para crear procedimientos almacenados que automatizarán tareas comunes y mejorarán la seguridad de las operaciones de datos.
+
+
+7.Abrir Triggers
+
+Ejecuta el archivo 'CreateTriggers.sql' para establecer triggers que ayudarán a mantener la integridad de los datos y automatizarán las respuestas a eventos específicos en la base de datos.
+
+
+8.Abrir DCL
+
+Ejecuta el archivo 'SetupDCL.sql' para configurar el control de acceso a los datos, asegurando que solo los usuarios autorizados puedan acceder o modificar la información.
+
+
+9.Abrir Backup
+
+Ejecuta el archivo 'BackupDatabase.sql' para configurar los procedimientos de respaldo, asegurando que los datos estén seguros frente a cualquier eventualidad.
