@@ -33,7 +33,7 @@ Descripción: El dataset incluye un conjunto de órdenes de ventas, proporcionan
 
 
 4.Proyecto SQL:  
-  Gestión y análisis de la base de datos de ventas utilizando SQL.
+  Proyecto desarrollado con el objetivo de gestionar y analizar las finanzas personales de los usuarios.
 
 
 ## Enlaces
