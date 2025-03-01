@@ -1,4 +1,4 @@
-# Proyecto: Análisis de Ventas de la Compañía - Data Analytics
+# Proyecto: Análisis de Ventas - Data Analytics
 
 ## Descripción
 Este proyecto fue desarrollado como parte del curso de Data Analytics en Coderhouse. El análisis se centra en las ventas de artículos electrónicos durante el año 2019, utilizando un dataset obtenido de Kaggle. El objetivo es extraer insights valiosos para comprender mejor el desempeño de ventas, identificar áreas de mejora, y capitalizar oportunidades de crecimiento.
